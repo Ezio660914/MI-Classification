@@ -24,4 +24,4 @@ class ecgdata(Dataset):
         return data,label
 
 if __name__ == '__main__':
-    
+    pass
